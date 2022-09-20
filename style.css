@@ -1,0 +1,22 @@
+ul li.checked{
+    background-color: #6c757d;
+    color: #ffff;
+    text-decoration: line-through;
+}
+.delete-icon{
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 12px 16px;
+    
+}
+
+.delete-icon:hover{
+
+   color: #FF0000; 
+ 
+}
+
+li {
+    cursor: pointer;
+}
